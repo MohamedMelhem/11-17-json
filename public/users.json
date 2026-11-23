@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "nev": "Kiss Tamás",
+      "osztaly": "12.D.",
+      "kredit" : 1000,
+      "tankotelese" : true,
+      "id": "mqx3xQT7-Yc"
+    },
+    {
+      "nev": "Kovács Dénes",
+      "osztaly": "9.a.",
+      "kredit" : 1000,
+      "tankotelese" : true,
+      "id": "79WKqhjrQzw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
